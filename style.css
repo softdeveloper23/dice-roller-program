@@ -10,7 +10,7 @@ button {
     padding: 10px 15px;
     border-radius: 10px;
     border: none;
-    background-color: hsl(271, 45%, 64%);
+    background-color: hsl(271, 40%, 53%);
     color: white;
     cursor: pointer;
     font-weight: bold;
@@ -33,4 +33,13 @@ input {
     font-weight: bold;
     text-align: center;
     width: 150px;
+}
+
+#diceResult {
+    margin: 25px;
+}
+
+#diceImages img{
+    width: 150px;
+    margin: 5px;
 }
